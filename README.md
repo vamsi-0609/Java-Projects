@@ -2,7 +2,7 @@
 
 Welcome to the **Java Practice Repository** created as part of the Java training program at **Annamacharya Institute of Technology & Sciences, Rajampet**.
 
-This repository contains all the Java programs practiced during the sessions. It is intended to help students revise concepts, refer to examples, and improve their coding skills through hands-on programming.
+This repository contains all the Java programs practiced during the sessions. It is intended to revise concepts, refer to examples, and improve their coding skills through hands-on programming.
 
 ---
 
@@ -63,6 +63,6 @@ This repository is created for:
 
 ---
 
-> _This repository is maintained as a learning resource by students of AITS, Rajampet._
+> _This repository is maintained as a learning resource
 
 Happy Learning! 🎯
