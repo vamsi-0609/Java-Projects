@@ -42,7 +42,7 @@ This repository is created for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-practice.git
+   git clone https://github.com/vamsi-0609/Java-Projects.git
    ```
 2. Open the project in any Java IDE (IntelliJ, Eclipse, VS Code, etc.)
 3. Navigate through folders and run the programs
