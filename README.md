@@ -10,15 +10,10 @@ This repository contains all the Java programs practiced during the sessions. It
 
 ```
 Java-Practice/
-├── Basics/
-├── ControlStatements/
-├── Loops/
-├── Arrays/
-├── OOPs/
-├── Strings/
-├── ExceptionHandling/
-├── Collections/
-├── FileHandling/
+├── FirstProject/src/
+├── Calculator/
+├── Calculator-JavaFX/
+├── To=Do-List/
 └── README.md
 ```
 
